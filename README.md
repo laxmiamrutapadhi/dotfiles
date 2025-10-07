@@ -1,4 +1,4 @@
-
+This setup configures Git and SSH for seamless integration with GitHub
 
 ```
 > ssh-keygen
