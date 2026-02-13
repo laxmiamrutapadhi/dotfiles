@@ -64,8 +64,6 @@ change_interface() {
     echo "Wi-Fi adapter interface name changed to $wifi_interface."
 }
 
-echo "This tool is created by Ezhil (@ezhil56x)"
-
 echo ""
 
 echo "Disclaimer"
