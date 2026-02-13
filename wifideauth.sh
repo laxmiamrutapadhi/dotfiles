@@ -1,8 +1,5 @@
 #!/bin/bash
-
 # Wi-Fi Deauthentication Tool
-# Created by Ezhil (@ezhil56x)
-
 display_menu() {
     echo "------------------------------------"
     echo "Wi-Fi Deauthentication Tool"
